@@ -33,4 +33,4 @@ O **objetivo central** deste trabalho é identificar a performance dos melhores 
 <br/>
 <br/>
 
-*Trabalho referente ao relatório para conclusão da Especialização em Ciência de Dados e Big Data - PUC Minas*
+*Repositório referente ao trabalho para conclusão da Especialização em Ciência de Dados e Big Data - PUC Minas*
