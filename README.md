@@ -18,7 +18,7 @@ O **objetivo central** deste trabalho é identificar a performance dos melhores 
 
 **As ferramentas e técnicas utilizadas para esse trabalho são:**
 
-- Linguagem python para coletagem e modelagem;
+- Linguagem python para coleta e modelagem;
 
 - Linguagem R para visualização dos dados;
 
