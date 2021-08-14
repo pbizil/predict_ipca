@@ -28,7 +28,7 @@ O **objetivo central** deste trabalho é identificar a performance dos melhores 
 
 - Catboost, XGBoost e LightGBM para modelos de gradient boosting;
 
-- Biblioteca SHAP para extrair as features mais importantes;
+- Biblioteca SHAP para extrair as features mais importantes.
 
 <br/>
 <br/>
